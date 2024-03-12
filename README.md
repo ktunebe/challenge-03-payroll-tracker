@@ -14,7 +14,7 @@ On clicking the "Add Employees" button, the user will be prompted for the first 
 
 Link to deployed application: https://ktunebe.github.io/challenge-03-payroll-tracker/
 
-![Screenshot of the Payroll Tracker page](assets/images/payroll-tracker.png)
+![Screenshot of the Payroll Tracker page](Assets/images/payroll-tracker.png)
 
 ## Credits
 
